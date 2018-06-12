@@ -1,2 +1,2 @@
 # git-github
-hello everyone Myself venkat this is my first git-github project.
+hello everyone Myself venkat this is my first github project.
